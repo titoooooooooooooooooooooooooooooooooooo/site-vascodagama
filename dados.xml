@@ -2,24 +2,24 @@
 <recompensas>
     <pirata>
         <id>	1	</id>
-        <nome>	Gol D. Roger	</nome>
-        <recompensa>	5.564.800.000	</recompensa>
-        <alcunha>	"Rei dos Piratas"	</alcunha>
-        <status>	Morto	</status>
+        <nome>	Roberto Dinamite	</nome>
+        <gols>	708	</gols>
+        <alcunha>	"Dinamite	</alcunha>
+        <status>	ETERNO	</status>
     </pirata>
     <pirata>
         <id>	2	</id>
-        <nome>	Edward Newgate	</nome>
-        <recompensa>	5.046.000.000	</recompensa>
-        <alcunha>	"Barba Branca"	</alcunha>
-        <status>	Morto	</status>
+        <nome>	Romário de Souza Faria nasceu	</nome>
+        <gols>	1.ooo	</golsa>
+        <alcunha>	"Romário"	</alcunha>
+        <status>	58 anos	</status>
     </pirata>
     <pirata>
         <id>	3	</id>
-        <nome>	Kaido	</nome>
-        <recompensa>	4.611.100.000	</recompensa>
-        <alcunha>	"Kaido das Feras"	</alcunha>
-        <status>	Desconhecido	</status>
+        <nome>	Edmundo Alves de Souza Neto	</nome>
+        <gols>    360	</gols>
+        <alcunha>	"Animal"	</alcunha>
+        <status>	53 anos	</status>
     </pirata>
     <pirata>
         <id>	4	</id>
